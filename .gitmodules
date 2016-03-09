@@ -1,0 +1,6 @@
+[submodule "summpy"]
+	path = summpy
+	url = git@github.com:betoesquivel/summpy.git
+[submodule "testdataextractor"]
+	path = testdataextractor
+	url = git@github.com:betoesquivel/onforums-testdataextractor.git
